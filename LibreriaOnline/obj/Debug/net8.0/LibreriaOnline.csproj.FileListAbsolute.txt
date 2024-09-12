@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\bin\Debug\net8.0\LibreriaOnline.exe
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\bin\Debug\net8.0\LibreriaOnline.deps.json
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\bin\Debug\net8.0\LibreriaOnline.runtimeconfig.json
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\bin\Debug\net8.0\LibreriaOnline.dll
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\bin\Debug\net8.0\LibreriaOnline.pdb
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\LibreriaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\LibreriaOnline.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\LibreriaOnline.AssemblyInfo.cs
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\LibreriaOnline.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\LibreriaOnline.dll
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\refint\LibreriaOnline.dll
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\LibreriaOnline.pdb
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\LibreriaOnline.genruntimeconfig.cache
+C:\Users\User\source\repos\LibreriaOnline\LibreriaOnline\obj\Debug\net8.0\ref\LibreriaOnline.dll

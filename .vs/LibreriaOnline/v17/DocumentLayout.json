@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|c:\\users\\user\\source\\repos\\libreriaonline\\libreriaonline\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|solutionrelative:libreriaonline\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|c:\\users\\user\\source\\repos\\libreriaonline\\libreriaonline\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|solutionrelative:libreriaonline\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|c:\\users\\user\\source\\repos\\libreriaonline\\libreriaonline\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|solutionrelative:libreriaonline\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|c:\\users\\user\\source\\repos\\libreriaonline\\libreriaonline\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|solutionrelative:libreriaonline\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|c:\\users\\user\\source\\repos\\libreriaonline\\libreriaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24CE7D7-E7D1-4FEC-A6A7-A75DD982DD1A}|LibreriaOnline\\LibreriaOnline.csproj|solutionrelative:libreriaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "LibreriaOnline\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Pago.cs",
+              "RelativeToolTip": "LibreriaOnline\\Models\\Pago.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwDsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:44:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "LibreriaOnline\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Pedido.cs",
+              "RelativeToolTip": "LibreriaOnline\\Models\\Pedido.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:44:07.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "LibreriaOnline\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Libro.cs",
+              "RelativeToolTip": "LibreriaOnline\\Models\\Libro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:43:46.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "LibreriaOnline\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Models\\Usuario.cs",
+              "RelativeToolTip": "LibreriaOnline\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:42:53.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Program.cs",
+              "RelativeDocumentMoniker": "LibreriaOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibreriaOnline\\LibreriaOnline\\Program.cs",
+              "RelativeToolTip": "LibreriaOnline\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:41:56.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
